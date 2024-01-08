@@ -1,0 +1,9 @@
+.menu-lateral {
+    display: grid;
+    grid-template-rows: repeat(3, auto) 1fr; /*Usar repeat(x, value) ajuda a evitar repetições desnecessárias*/
+    row-gap: 2rem;
+}
+
+.menu-lateral__logo {
+    justify-self: center;
+}
