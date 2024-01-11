@@ -18,9 +18,9 @@
         display: block;
     }   
 
-.cabecalho {
-    justify-self: center;
-}
+    .cabecalho {
+        justify-self: center;
+    }
 
     .secao-horizontal .cartao__imagem {
         height: 4.58rem;
@@ -48,7 +48,7 @@
     .cabecalho__botao__avancar {
         display: none;
     }
-
+    
     .menu-lateral {
         width: 208px;
     }
@@ -86,4 +86,5 @@
     .menu-lateral {
         width: 228px;
     }
+
 }
