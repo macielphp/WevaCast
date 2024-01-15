@@ -149,20 +149,20 @@ main {
 
 .secao__cartoes::-webkit-scrollbar {
     height: .5rem;
-  }
+}
   
-  .secao__cartoes::-webkit-scrollbar-thumb {
+.secao__cartoes::-webkit-scrollbar-thumb {
     background-color: var(--cinza-claro);
     border-radius: .5rem;
-  }
+}
   
-  .secao__cartoes::-webkit-scrollbar-thumb:hover {
+.secao__cartoes::-webkit-scrollbar-thumb:hover {
     background-color: var(--cinza-escuro);
-  }
+}
   
-  .secao__cartoes::-webkit-scrollbar-track {
+.secao__cartoes::-webkit-scrollbar-track {
     background-color: var(--gradiente);
-  } 
+} 
  
 /*Navbar*/
 .navbar {
@@ -172,7 +172,6 @@ main {
     bottom: 0;
     width: 100vw;
 }
-
 
 .navbar__items {
     width: 80%;
